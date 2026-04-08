@@ -1,0 +1,13 @@
+general (ALT4).bat : OK: 62, FAIL: 35, UNSUP: 0, BLOCKED: 0
+general (ALT).bat : OK: 62, FAIL: 37, UNSUP: 0, BLOCKED: 0
+general (SIMPLE FAKE).bat : OK: 62, FAIL: 37, UNSUP: 0, BLOCKED: 0
+general (ALT11).bat : OK: 61, FAIL: 38, UNSUP: 0, BLOCKED: 0
+general (ALT10).bat : OK: 61, FAIL: 38, UNSUP: 0, BLOCKED: 0
+general (SIMPLE FAKE ALT2).bat : OK: 57, FAIL: 40, UNSUP: 0, BLOCKED: 0
+general (SIMPLE FAKE ALT).bat : OK: 49, FAIL: 48, UNSUP: 0, BLOCKED: 0
+general (ALT9).bat : OK: 44, FAIL: 52, UNSUP: 0, BLOCKED: 3
+general (FAKE TLS AUTO ALT3).bat : OK: 38, FAIL: 59, UNSUP: 0, BLOCKED: 0
+general (ALT7).bat : OK: 37, FAIL: 55, UNSUP: 0, BLOCKED: 5
+general (ALT3).bat : OK: 27, FAIL: 66, UNSUP: 0, BLOCKED: 6
+general (ALT5).bat : OK: 20, FAIL: 35, UNSUP: 0, BLOCKED: 42
+general (FAKE TLS AUTO).bat : OK: 14, FAIL: 83, UNSUP: 0, BLOCKED: 0
